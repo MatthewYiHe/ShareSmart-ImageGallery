@@ -1,10 +1,13 @@
+// Load up the application styles
+require("../styles/app.css");
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Header from './components/Header'
 import Content from './components/Content'
 
-const text = 'Reactive Channels';
+const text = 'Image Gallery';
 
 ReactDOM.render(
     <div>

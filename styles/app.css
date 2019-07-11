@@ -1,0 +1,10 @@
+.header {
+  border-bottom: 4px solid aliceblue;
+  background-color: skyblue;
+  padding: 10;
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
