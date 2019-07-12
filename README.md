@@ -1,8 +1,6 @@
-# This is really basic REACT Starter (Believe me!)
+# ShareSmart Image Gallery
 
-[Article of this Starter](https://medium.com/@oguzhanoze/really-basic-react-starter-from-scratch-9a8b9ef719d)
-
-There is no redux, router or any other packages in this Starter kit.
+A gallery page that pulls images from a remote source, and display them.
 
 ## Getting Started
 
@@ -15,13 +13,13 @@ npm install
 ```
 npm start
 ```
+4. Go to http://0.0.0.0:8080/
 
-#### Thats it!
+#### Dependencies
 
-If you want to work with a [reactive-spring-demo](https://github.com/gunayus/reactive-spring-demo); 
+- react
+- react-dom
+- css-loader
+- style-loader
+- webpack
 
-1. Change branch to "stream-event"
-2. Clone [reactive-spring-demo](https://github.com/gunayus/reactive-spring-demo) and run it. 
-3. Run really-basic-react-starter.
-
-Enjoy...
