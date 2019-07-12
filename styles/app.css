@@ -1,10 +1,21 @@
+body {
+  background: #e4e4e4;
+}
+
 .header {
+  position: absolute;
+  width: 100%;
+  top: 0;
   border-bottom: 4px solid aliceblue;
   background-color: skyblue;
-  padding: 10;
 }
 
 .title {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
+}
+
+.image {
+  margin-top: 80px;
+  padding: 5px;
 }

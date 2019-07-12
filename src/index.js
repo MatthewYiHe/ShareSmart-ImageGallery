@@ -1,18 +1,17 @@
-// Load up the application styles
 require("../styles/app.css");
 
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
-import Header from './components/Header'
-import Content from './components/Content'
+import Header from "./components/Header"
+import Content from "./components/Content"
 
-const text = 'Image Gallery';
+const text = "Image Gallery";
 
 ReactDOM.render(
     <div>
         <Header title={text}/>
         <Content/>
     </div>,
-    document.getElementById('app')
+    document.getElementById("app")
 );
