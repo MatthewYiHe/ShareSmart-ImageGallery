@@ -2,6 +2,10 @@
 
 A gallery page that pulls images from a remote source, and display them.
 
+## Screen-Shoot
+
+![image_1](https://github.com/MatthewYiHe/ShareSmart-ImageGallery/blob/master/public/homepage.png?raw=true)
+
 ## Getting Started
 
 1. Clone this repo
